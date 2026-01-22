@@ -7,7 +7,7 @@
 
 # Licobox
 
-[Licobox](https://licobox.dev) is a Docker Engine runtime for macOS.
+[Licobox](https://licobox.dev) is a Docker Engine runtime for macOS that allows you to run and manage containers.
 
 ## Features
 
