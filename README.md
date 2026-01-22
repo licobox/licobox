@@ -1,0 +1,21 @@
+<p align="center">
+  <a href="https://licobox.dev">
+    <img src="https://licobox.dev/assets/icon.png" height="120">
+    <h1 align="center">Licobox</h1>
+  </a>
+</p>
+
+# Licobox
+
+[Licobox](https://licobox.dev) is a Docker Engine runtime for macOS.
+
+## Features
+
+- 🐳 **Docker Engine.** Run and manage containers seamlessly on macOS.
+- ⚡️ **Fast.** Up and running Docker Engine in seconds.
+- ☁️ **Lightweight.** Minimal idle CPU usage with dynamic memory and disk usage.
+
+## Learn More
+
+- [Getting started](https://licobox.dev/getting-started.html)
+- [Demo](https://licobox.dev/getting-started.html#demo)
