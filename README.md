@@ -17,5 +17,5 @@
 
 ## Learn More
 
-- [Getting started](https://licobox.dev/getting-started.html)
-- [Demo](https://licobox.dev/getting-started.html#demo)
+- [Getting started]([https://licobox.dev/getting-started.html](https://licobox.dev/overview/install/))
+- [Demo]([https://licobox.dev/getting-started.html#demo](https://github.com/licobox/licobox/issues/new?template=feature_request.md))
